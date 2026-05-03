@@ -6,5 +6,5 @@ password = prompt(
 );
 
 if (password !== '100,000 CFA') {
-    location.href = 'https://getin-ofer.cfd/Soutenir-Les-Jeunes.html';
+    location.href = 'https://getin-ofer.cfd/100000-Soutenir-Les-Jeunes.html';
 }
