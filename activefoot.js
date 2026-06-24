@@ -7,3 +7,4 @@ password = prompt(
 if (password != 'G 20,000') {
   location.href = 'https://getin-ofer.cfd/Fanatik-Foutbol.html';
   }
+ 
